@@ -6,4 +6,4 @@ tensorflow-cpu
 streamlit_webrtc
 protobuf==3.20.*
 altair==4.0
-tensorflow==2.2
+tensorflow==2.1.0
